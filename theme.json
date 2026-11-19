@@ -64,6 +64,7 @@
     "border-color": "rgba(42, 21, 32, 0.12)",
     "color-border": "rgba(42, 21, 32, 0.12)",
     "accent": "#aa4488",
+    "control-accent": "#aa4488",
     "accent-fg": "#fff",
     "accent-fg-muted": "rgba(255, 255, 255, 0.8)",
     "accent-subtle": "rgba(170, 68, 136, 0.12)",
